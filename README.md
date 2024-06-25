@@ -3,7 +3,7 @@
 This is a clone of the official iPhone website, built using React, GSAP, and Three JS. The goal of this project is to recreate the immersive 3D experience of the original website, allowing users to explore and interact with the iPhone model in a visually stunning way.
 
 <div style="text-align: center;">
-  <img src="./assets/images/front-screen.png" alt="Front Window Screen of the website" style="width: 100%; height: auto;">
+  <img src="https://iphone-3d-website-clone.vercel.app/assets/images/front-screen.png" alt="Front Window Screen of the website" style="width: 100%; height: auto;">
   
 </div>
 
